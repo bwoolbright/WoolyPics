@@ -1,0 +1,5 @@
+venv/
+.DS_Store
+flickr_pipeline.db
+.streamlit/secrets.toml
+.env
